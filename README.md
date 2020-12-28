@@ -22,9 +22,5 @@ Here are some ideas to get you started:
   </p>
   <h5 style="text-align:center">D E V E L O P E R ✖️ </h5>
   
-  <p align="center">
-    <a href="#">
-        <img src="https://img.shields.io/badge/Made_With-Love-informational?style=for-the-badge&logo=heart&logoColor=white&color=C13B3A&labelColor=EA4560&logoWidth=40&logoHeight=20"
-            alt="UwU"></a>
-  </p>
+  
 </div>
