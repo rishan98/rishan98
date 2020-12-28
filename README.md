@@ -49,7 +49,13 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/Adobe-XD-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
   
 
+<br>
 
+## <img src="https://media.tenor.com/images/bc4c4349278643683b8dad9cf877ff03/tenor.gif" width="30px">  S T A T S
+
+
+[![Rishan's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=rishan98&layout=compact&theme=dracula&show_icons=true&count_private=true?)](https://github.com/rishan98/github-readme-stats)
+<br><br>
 
 
 
