@@ -31,9 +31,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## <img src="<br>
-
-## <img src="https://media.giphy.com/media/kg1QdNSiawGak25Wr4/giphy.gif" width="30px"> S K I L L S
+## <img src="https://media.tenor.com/images/bc4c4349278643683b8dad9cf877ff03/tenor.gif" width="30px"> S K I L L S
 
 ![](https://img.shields.io/badge/Web-Development-informational?style=for-the-badge&logo=javascript&logoColor=white&color=AD81CE)
 ![](https://img.shields.io/badge/Android-Development-informational?style=for-the-badge&logo=flutter&logoColor=white&color=AD81CE)
