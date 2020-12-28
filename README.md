@@ -20,7 +20,11 @@ Here are some ideas to get you started:
   <p align="center">
     <img src="https://media.tenor.com/images/5239972fb1efa96e4fb0c1e5c53727aa/tenor.gif">
   </p>
-  <h5 style="text-align:center">D E V E L O P E R ✖️ </h5>
+  <h5 style="text-align:center">✖️ D E V E L O P E R ✖️ </h5>
   
   
 </div>
+
+<br><br>
+
+[![Rishan's github stats](https://github-readme-stats.vercel.app/api?username=rishan98&theme=material-palenight&show_icons=true&count_private=true?)](https://github.com/rishan98/github-readme-stats)
