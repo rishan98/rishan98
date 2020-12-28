@@ -1,4 +1,4 @@
-### Hola! 👋 I'm Rishan Umayanga...
+### Hola! 👋 
 
 <!--
 **rishan98/rishan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +37,17 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Android-Development-informational?style=for-the-badge&logo=flutter&logoColor=white&color=AD81CE)
 ![](https://img.shields.io/badge/UX/UI-Design-informational?style=for-the-badge&logo=adobe&logoColor=white&color=AD81CE)
 
+<br>
 
+## <img src="https://media.tenor.com/images/bc4c4349278643683b8dad9cf877ff03/tenor.gif" width="30px"> T O O L S 
+  
+  
+  ![](https://img.shields.io/badge/Intellij-Idea-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Android-Studio-informational?style=for-the-badge&logo=android&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/VS-Code-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Visual-Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Adobe-XD-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
+  
 
 
 
