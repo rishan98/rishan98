@@ -28,3 +28,21 @@ Here are some ideas to get you started:
 <br><br>
 
 [![Rishan's github stats](https://github-readme-stats.vercel.app/api?username=rishan98&theme=material-palenight&show_icons=true&count_private=true?)](https://github.com/rishan98/github-readme-stats)
+
+<br>
+
+## <img src="<br>
+
+## <img src="https://media.giphy.com/media/kg1QdNSiawGak25Wr4/giphy.gif" width="30px"> S K I L L S
+
+![](https://img.shields.io/badge/Web-Development-informational?style=for-the-badge&logo=javascript&logoColor=white&color=AD81CE)
+![](https://img.shields.io/badge/Android-Development-informational?style=for-the-badge&logo=flutter&logoColor=white&color=AD81CE)
+![](https://img.shields.io/badge/UX/UI-Design-informational?style=for-the-badge&logo=adobe&logoColor=white&color=AD81CE)
+
+
+
+
+
+
+
+
