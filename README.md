@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2 style="text-align:center; font-family: 'Electroharmonix', arial;">R I S H A N &nbsp;&nbsp; U M A Y A N G A </h2>
   <p align="center">
-    <img src="https://tenor.com/view/designer-developer-art-computer-artist-gif-12374469">
+    <img src="https://media1.tenor.com/images/504688092764dd902e28389fcc7383cf/tenor.gif?itemid=12374469">
   </p>
   <h5 style="text-align:center">✖️ D E V E L O P E R ✖️ </h5>
   
